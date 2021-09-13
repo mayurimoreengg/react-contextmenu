@@ -1,0 +1,25 @@
+h1,
+p {
+  font-family: Lato;
+}
+nav.react-contextmenu {
+  background: #fff;
+  border-radius: 5px;
+  border: 1px solid #ddd;
+  padding: 10px;
+}
+nav.react-contextmenu .react-contextmenu-item {
+  padding: 5px 0;
+  color: #555;
+  font-size: 0.9rem;
+  cursor: pointer;
+}
+nav.react-contextmenu .react-contextmenu-item.react-contextmenu-item--divider {
+  padding: 0;
+  border: 1px solid #ddd;
+}
+nav.react-contextmenu .react-contextmenu-item svg {
+  width: 16px;
+  margin-right: 5px;
+  vertical-align: text-bottom;
+}
