@@ -82,6 +82,8 @@ export default function App() {
             Delete
           </MenuItem>
         </ContextMenu>
+
+        <p>Context menu end here</p>
       </div>
     </div>
   );
