@@ -7,6 +7,7 @@ nav.react-contextmenu {
   border-radius: 5px;
   border: 1px solid #ddd;
   padding: 10px;
+  box-shadow: 0 0 5px rgb(233, 233, 233);
 }
 nav.react-contextmenu .react-contextmenu-item {
   padding: 5px 0;
